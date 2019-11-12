@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-  <title>Landing</title>
+  <title>Somaiya Voices</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -80,7 +80,7 @@
 		<div class="row col-12 mb-2">
 			<div class="col-md-4 col-sm-3 col-xs-0"></div>
 			<div class="col-md-5 col-sm-6 col-xs-8  ml-auto mr-auto mb-1" style="padding-left: auto;">
-				<img style="margin-left:15%; height:3.5rem;" class="img-fluid" src="./voiceslogo.png" >
+				<img style="margin-left:5%; height:3.5rem;" class="img-fluid" src="./voiceslogo.png" >
 			</div>
 			<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
@@ -797,7 +797,7 @@ tl.staggerTo(['.sun', '.moonMask', '.moon'], 1, {
 function clickToggle(e){
 if(tl.time() > 0 && tl.time() < tl.duration()){
  tl.play();
- console.log("dayy");
+ //console.log("dayy");
  $('.bodycolor').css('background-color','#fff');
  $('.img-text').each(function() {
     $(this).css('color','#000');
@@ -807,7 +807,7 @@ $('.popular-heading').each(function() {
 });
 } else{
  tl.play(0);
- console.log("night");
+ //console.log("night");
  $('.bodycolor').css('background-color','#000');
  $('.img-text').each(function() {
     $(this).css('color','#fff');
