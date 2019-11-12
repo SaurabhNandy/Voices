@@ -47,6 +47,20 @@
     .img-text-by{
         font-family:Playfair Display;
     }
+    .header2-span,.header3-span{
+        padding:0% 2%;
+    }
+    .header2{
+        font-weight:120%;
+    }
+    .img-text-opinion{
+        font-weight:bold;
+        margin-top:2%;
+        padding:0% 2%;
+    }
+    .img-text-by{
+        font-size:90%;
+    }
 </style>
 
 
@@ -780,14 +794,6 @@ tl.staggerTo(['.sun', '.moonMask', '.moon'], 1, {
  alpha:0,
  ease:Sine.easeOut
 })
-
-$('.img-text-opinion').each(function() {
-    $(this).css('padding','1% 2% 1% 2%');
-
-});
-$('.img-text').each(function() {
-    $(this).css('margin-bottom','2%');
-});
 //ScrubGSAPTimeline(tl);
 function clickToggle(e){
 if(tl.time() > 0 && tl.time() < tl.duration()){
