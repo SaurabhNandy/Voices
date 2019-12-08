@@ -1,6 +1,6 @@
 <?php include 'navbar.php' ?>   
-    <div class="landing-img container col-12 ">
-        <div class="header1" ><strong>SPORTS</strong></div>
+<div class="col-12 pl-0 pr-0">
+        <img src="../css/Images/Sports HEADER.svg" style="width: 100%;">
     </div>
 
     <div class="container col-12 ">
@@ -9,7 +9,7 @@
                 <div class="column col-8 mt-4" style="overflow-y:hidden">
                     <div class="col-12 h-45">
                         <a href="#" class="d-block mb-2 ">
-                            <img class="img-fluid img-thumbnail" src="./css/Images/img-list.png" alt="">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
                         <div>
                             <p><br>
@@ -21,7 +21,7 @@
                     </div>
                     <div class="col-12 mt-5 h-45">
                         <a href="#" class="d-block mb-2 ">
-                            <img class="img-fluid img-thumbnail" src="./css/Images/img-list.png" alt="">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
                         <div>
                             <p><br>
@@ -35,7 +35,7 @@
                 <div class=" row col-4 h-100" style="max-height: 100%;height:100%">
                     <div class="col-12 h-30" style="height:30%;">
                         <a href="#" class="d-block mb-2 ">
-                            <img class="img-fluid img-thumbnail " src="./css/Images/img-list.png" alt="">
+                            <img class="img-fluid img-thumbnail " src="../css/Images/img-list.png" alt="">
                         </a>
                         <div>
                             <p>
@@ -47,7 +47,7 @@
                     </div>
                     <div class="col-12 h-30" style="height:30%;">
                         <a href="#" class="d-block mb-2 ">
-                            <img class="img-fluid img-thumbnail" src="./css/Images/img-list.png" alt="">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
                         <div>
                             <p>
@@ -59,7 +59,7 @@
                     </div>
                     <div class="col-12 h-30" style="height:30%;">
                         <a href="#" class="d-block mb-2 ">
-                            <img class="img-fluid img-thumbnail " src="./css/Images/img-list.png" alt="">
+                            <img class="img-fluid img-thumbnail " src="../css/Images/img-list.png" alt="">
                         </a>
                         <div>
                             <p>
@@ -77,8 +77,8 @@
         <div class="landing-img-list container col-9 ml-5 mt-5 mb-5">
             <div class="row mb-2">
                 <div class="col-6">
-                        <a href="#" class="d-block mb-2 h-100">
-                            <img class="img-fluid img-thumbnail" src="./css/Images/img-list.png" alt="">
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
                         <div>
                             <p>
@@ -89,8 +89,8 @@
                         </div>
                 </div>
                 <div class="col-6">
-                    <a href="#" class="d-block mb-2 h-100">
-                        <img class="img-fluid img-thumbnail" src="./css/Images/img-list.png" alt="">
+                    <a href="#" class="d-block mb-2 h-60">
+                        <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                     </a>
                     <div>
                         <p>
@@ -103,8 +103,8 @@
             </div>
             <div class="row mb-2">
                 <div class="col-6">
-                        <a href="#" class="d-block mb-2 h-100">
-                            <img class="img-fluid img-thumbnail" src="./css/Images/img-list.png" alt="">
+                        <a href="#" class="d-block mb-1 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
                         <div>
                             <p>
@@ -115,8 +115,8 @@
                         </div>
                 </div>
                 <div class="col-6">
-                        <a href="#" class="d-block mb-2 h-100">
-                            <img class="img-fluid img-thumbnail" src="./css/Images/img-list.png" alt="">
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
                         <div>
                             <p>
@@ -129,8 +129,8 @@
             </div>
             <div class="row mb-2">
                 <div class="col-6">
-                        <a href="#" class="d-block mb-2 h-100">
-                            <img class="img-fluid img-thumbnail" src="./css/Images/img-list.png" alt="">
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
                         <div>
                             <p>
@@ -141,8 +141,8 @@
                         </div>
                 </div>
                 <div class="col-6">
-                        <a href="#" class="d-block mb-2 h-100">
-                            <img class="img-fluid img-thumbnail" src="./css/Images/img-list.png" alt="">
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
                         <div>
                             <p>
@@ -155,8 +155,8 @@
             </div>
             <div class="row mb-2">
                 <div class="col-6">
-                        <a href="#" class="d-block mb-2 h-100">
-                            <img class="img-fluid img-thumbnail" src="./css/Images/img-list.png" alt="">
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
                         <div>
                             <p>
@@ -167,8 +167,8 @@
                         </div>
                 </div>
                 <div class="col-6">
-                        <a href="#" class="d-block mb-2 h-100">
-                            <img class="img-fluid img-thumbnail" src="./css/Images/img-list.png" alt="">
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
                         <div>
                             <p>
@@ -179,5 +179,6 @@
                         </div>
                 </div>
             </div>
+            <div class="row"><a href="#" class="rm">READ MORE...</a></div>
         </div>
         <?php include 'footer.php' ?>

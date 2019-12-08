@@ -4,71 +4,100 @@
 	<title>Somaiya Voices</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="shortcut icon" href="favicon.ico"/>
+	<link rel="shortcut icon" href="..css/Images/favicon.ico"/>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="../css/sports.css">
     <link rel="stylesheet" href="../css/landing.css">
-	<link rel="icon" type="image/png" href="./favicon.ico">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
 </head>
 
-<style>   
-    svg{
-      width:100px;
-    }
-    
-    .hit{
-     cursor:pointer;
-     -webkit-tap-highlight-color:transparent;
-    } 
 
-    a:hover{
-        text-decoration: none;
-        cursor: pointer;
-        color:#F6EB42;
-    }
-    .dropdown-menu{
-        background: #000;
-    }
-    .dropdown-item{
-        color: #fff;
-    }
-    .dropdown-item:hover{
-        color: #F6EB42;
-        background: #000;
-    }
-</style>
+<body style="background-color: #fff; overflow-x: hidden;">
+<div class = "loader">
+	<div class = "blob-1"></div>
+	<div class = "blob-2"></div>
+</div>
 
-<body style="background-color: #000000; overflow-x: hidden;">
-<div class="conainer topbar mb-0 pb-0">
-		<div class="row">	
-			<div class="row col-lg-6 col-md-12 col-sm-12 col-xs-12 ml-auto mt-2 " style="text-align:center">
-				<a class="col-lg-3 col-md-3 col-sm-2 col-xs-2" href="#" style="color:#F6EB42;font-size:95%;margin-left:8%;padding:0%;">Write For Us</a>
-				<a class="col-lg-3 col-md-4 col-sm-3 col-xs-3" href="#" style="color:#fff;font-size:95%;">Reach out to us</a>
-				<div class="col-lg-4 col-md-4 col-sm-6 col-sm-6 row ml-2">
-					<img class="col-2 mr-1" src="fb_white.svg" style="height:80%;padding:0%;">
-					<img class="col-2 mr-1" src="insta_white.svg" style="height:80%;padding:0%;">
-					<img class="col-2 mr-1" src="yt_white.svg" style="height:80%;padding:0%;">
-					<img class="col-2" src="Wordpress.svg" style="height:80%;padding:0%;">
-				</div>
-			</div>
-		</div>
-		<div class="row col-12 mb-2">
+<div class="topbar mb-0 pb-0">
+		<div class="row col-12 mb-2 pt-4">
 			<div class="col-md-4 col-sm-3 col-xs-0"></div>
 			<div class="col-md-5 col-sm-6 col-xs-8  ml-auto mr-auto mb-1" style="padding-left: auto;">
-				<img style="margin-left:5%; height:3.5rem;" class="img-fluid" src="./voiceslogo.png" >
+				<img style="margin-left:5%; height:3.5rem;" class="img-fluid" src="../css/Images/voiceslogo.png" >
 			</div>
 			<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-                            <title>Day And Night Toggle</title>
-                        <description>A user interface toggle with two options - a sun with a cloud that animates to a crescent moon with stars</description>
+                    
+            </div>
+		</div>
+		<div class="navbar navbar-expand-md navbar-dark col-12" id="navbar" style="background-color:#000; padding:0px;">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button> 
+  			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<!-- Navbar links -->
+				<ul class="navbar-nav col-md-7 col-sm-10 ml-auto mr-auto" >
+					<li class="nav-item col-lg-2 col-md-2 col-sm-2 col-xs-2">
+						<a class="nav-link" href="./landing.php" style="color:#fff;">HOME</a>
+					</li>
+					
+					<li class="nav-item dropdown-news col-lg-2 col-md-2 col-sm-2 col-xs-2 ml-2">
+						<a class="nav-link" href="./news.php" id="navbardrop" data-toggle="dropdown" style="color:#fff;">
+							NEWS
+						</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item" href="./news.php#events">Events</a>
+							<a class="dropdown-item" href="./news.php#alumnispeak">Alumni Speak</a>
+							<a class="dropdown-item" href="./news.php#studentlife">Student Life</a>
+						</div>
+					</li>
+
+					<li class="nav-item dropdown-opinion col-lg-2 col-md-2 col-sm-2 col-xs-2 ml-2">
+						<a class="nav-link" href="./opinion.php" id="navbardrop" data-toggle="dropdown" style="color:#fff;">
+							OPINION
+						</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item" href="./opinion.php#presidentsdesk">President's Desk</a>
+                            <a class="dropdown-item" href="./opinion.php#mindspace">Mindspace</a>
+                            <a class="dropdown-item" href="./opinion.php#conversation">Conversation</a>
+							<a class="dropdown-item" href="./opinion.php#cornerstone">Cornerstone</a>
+						</div>
+					</li>
+
+					<li class="nav-item col-lg-2 col-md-2 col-sm-2 col-xs-2 ml-2">
+						<a class="nav-link" href="./sports.php" style="color:#fff;">SPORTS</a>
+					</li>
+
+					<li class="nav-item dropdown-features col-lg-2 col-md-2 col-sm-3 col-xs-3 ml-2">
+						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown" style="color:#fff;">
+							FEATURES
+						</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item" href="#">Blog</a>
+							<a class="dropdown-item" href="#">Academia</a>
+							<a class="dropdown-item" href="#">Humans Of Somaiya</a>
+						</div>
+					</li>
+
+					<li class="nav-item dropdown-multimedia col-lg-2 col-md-2 col-sm-3 col-xs-3 ml-2">
+						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown" style="color:#fff;">
+							MULTIMEDIA
+						</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item" href="#">Images</a>
+							<a class="dropdown-item" href="./events.php">Event Gallery</a>
+						</div>
+                    </li>
+				
+                </ul>
+                
+                <div class="col-1 mb-0 mr-5 float-right" >
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
                             <defs>
                                 <filter id="shadow" x="-100%" y="-100%" width="250%" height="250%">
                                 <feGaussianBlur stdDeviation="4" result="coloredBlur" />
@@ -131,73 +160,36 @@
                                     <circle cx="404.21" cy="348.19" r="11.32"/>
                                 </g>
                             </g>
-                            
                             </g>
                             <rect class="hit" x="220" y="210" width="360" height="180" rx="90" ry="90" fill="transparent" stroke="none" stroke-width="0"/>
                         </svg>
-            </div>
-		</div>
-		<div class="navbar navbar-expand-sm navbar-dark col-12" style="background-color:#000;">
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button> 
-  			<div class="collapse navbar-collapse" id="navbarSupportedContent">
-			<!-- Navbar links -->
-				<ul class="navbar-nav col-md-8 col-sm-12 ml-auto mr-auto" >
-					<li class="nav-item col-lg-2 col-md-2 col-sm-2 col-xs-2">
-						<a class="nav-link" href="#">HOME</a>
-					</li>
-					
-					<li class="nav-item dropdown-news col-lg-2 col-md-2 col-sm-2 col-xs-2 ml-2">
-						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown">
-							NEWS
-						</a>
-						<div class="dropdown-menu">
-							<a class="dropdown-item" href="#">Events</a>
-							<a class="dropdown-item" href="#">Alumni Speak</a>
-							<a class="dropdown-item" href="#">Student Life</a>
-						</div>
-					</li>
-
-					<li class="nav-item dropdown-opinion col-lg-2 col-md-2 col-sm-2 col-xs-2 ml-2">
-						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown">
-							OPINION
-						</a>
-						<div class="dropdown-menu">
-							<a class="dropdown-item" href="#">Mindspace</a>
-							<a class="dropdown-item" href="#">President's Desk</a>
-							<a class="dropdown-item" href="#">Cornerstone</a>
-							<a class="dropdown-item" href="#">Conversation</a>
-						</div>
-					</li>
-
-					<li class="nav-item col-lg-2 col-md-2 col-sm-2 col-xs-2 ml-2">
-						<a class="nav-link" href="#">SPORTS</a>
-					</li>
-
-					<li class="nav-item dropdown-features col-lg-2 col-md-2 col-sm-3 col-xs-3 ml-2">
-						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown">
-							FEATURES
-						</a>
-						<div class="dropdown-menu">
-							<a class="dropdown-item" href="#">Blog</a>
-							<a class="dropdown-item" href="#">Academia</a>
-							<a class="dropdown-item" href="#">HOS</a>
-						</div>
-					</li>
-
-					<li class="nav-item dropdown-multimedia col-lg-2 col-md-2 col-sm-3 col-xs-3 ml-2">
-						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown">
-							MULTIMEDIA
-						</a>
-						
-
-						<div class="dropdown-menu">
-							<a class="dropdown-item" href="#">Images</a>
-							<a class="dropdown-item" href="#">Event Gallery</a>
-						</div>
-                    </li>
-				</ul>
+                    </div>
 			</div>
 		</div> 
-	</div>
+    </div>
+    
+
+<script>
+$(window).on("load", function() {
+    $('body, html').css({'overflow-y': 'hidden',height: '100vh'});
+	$(".loader").delay(1000).fadeOut("slow",function(){
+        $('body, html').css({'overflow-y': 'auto',height: 'auto'});
+        var hash = location.hash;
+        if(hash != ''){
+            $('html, body').animate({ scrollTop: $(hash).offset().top-150}, 500);
+        }
+    });
+});
+window.onscroll = function(){scroll()};
+
+var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+
+function scroll() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+</script>

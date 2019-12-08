@@ -1,5 +1,6 @@
 <?php include 'navbar.php' ?>
-<div class="landing-img container col-12 ">
+
+    <div class="landing-img container col-12 ">
         <div class="header1" ><strong>EVENTS</strong></div>
     </div>
 

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.26772in" height="11.6929in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8267.72 11692.91"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:none}
+    .fil0 {fill:black}
+    .fil1 {fill:#1A1A1A}
+    .fil3 {fill:#333333}
+    .fil4 {fill:white}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M3584.21 5189.15l1099.29 0c59.22,0 107.67,48.45 107.67,107.67l0 1099.29c0,59.22 -48.45,107.67 -107.67,107.67l-1099.29 0c-59.22,0 -107.67,-48.45 -107.67,-107.67l0 -1099.29c0,-59.22 48.45,-107.67 107.67,-107.67z"/>
+    </clipPath>
+      <mask id="id1">
+  <radialGradient id="id2" gradientUnits="userSpaceOnUse" cx="4153.74" cy="5866.34" r="892.78" fx="4153.74" fy="5866.34">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id2)" x="3473.07" y="5185.67" width="1321.57" height="1321.57"/>
+      </mask>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_729526704">
+   <path class="fil0" d="M3584.21 5189.15l1099.29 0c59.22,0 107.67,48.45 107.67,107.67l0 1099.29c0,59.22 -48.45,107.67 -107.67,107.67l-1099.29 0c-59.22,0 -107.67,-48.45 -107.67,-107.67l0 -1099.29c0,-59.22 48.45,-107.67 107.67,-107.67z"/>
+   <g style="clip-path:url(#id0)">
+    <g>
+     <path id="1" class="fil1" style="mask:url(#id1)" d="M3584.21 5189.15l1099.29 0c59.22,0 107.67,48.45 107.67,107.67l0 1099.29c0,59.22 -48.45,107.67 -107.67,107.67l-1099.29 0c-59.22,0 -107.67,-48.45 -107.67,-107.67l0 -1099.29c0,-59.22 48.45,-107.67 107.67,-107.67z"/>
+    </g>
+   </g>
+   <path class="fil2" d="M3584.21 5189.15l1099.29 0c59.22,0 107.67,48.45 107.67,107.67l0 1099.29c0,59.22 -48.45,107.67 -107.67,107.67l-1099.29 0c-59.22,0 -107.67,-48.45 -107.67,-107.67l0 -1099.29c0,-59.22 48.45,-107.67 107.67,-107.67z"/>
+   <rect class="fil3" x="3602.78" y="5256.91" width="1062.16" height="1062.16" rx="86.99" ry="86.99"/>
+   <polygon class="fil4" points="4133.86,5491.63 4436.78,6000.4 3830.95,6000.4 "/>
+  </g>
+ </g>
+</svg>

@@ -22,16 +22,16 @@
 				<div class="row col-3 ml-auto mr-auto mb-3 checkout" style="font-family: Source Sans Pro;font-style: normal;font-weight: 300;font-size:180%;line-height:110%;text-align: center;letter-spacing:0.47em;color: #FFFFFF;">CHECK  OUT</div><br>
 				<div class="row mt-2 pb-5 ml-auto mr-auto">
 					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pl-5" style="padding-left:">
-						<img src="./News.svg" style="border-radius: 5%;max-width: 120%">
+						<img src="../css/Images/News.svg" style="border-radius: 5%;max-width: 120%">
 					</div>
 					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pl-5">
-						<img src="./Opinion.svg" style="border-radius: 5%;max-width: 120%">
+						<img src="../css/Images/Opinion.svg" style="border-radius: 5%;max-width: 120%">
 					</div>
 					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pl-5">
-						<img src="./Sports.svg" style="border-radius: 5%;max-width: 120%">
+						<img src="../css/Images/Sports.svg" style="border-radius: 5%;max-width: 120%">
 					</div>
 					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pl-5">
-						<img src="./Events.svg" style="border-radius: 5%;max-width: 120%">
+						<img src="../css/Images/Events.svg" style="border-radius: 5%;max-width: 120%">
 					</div> 
 				</div>
 			</div>	

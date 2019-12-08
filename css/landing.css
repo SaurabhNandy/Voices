@@ -5,7 +5,91 @@ body,html{
     background-color: #E5E5E5;
     width:100%;
     overflow-x:hidden;
+    height:100%;
 }
+
+svg{
+    width:100px;
+}
+
+.hit{
+    cursor:pointer;
+    -webkit-tap-highlight-color:transparent;
+} 
+
+a:hover{
+    text-decoration: none;
+    cursor: pointer;
+    color:#F6EB42;
+}
+.dropdown-menu{
+    background: #000;
+}
+.dropdown-item{
+    color: #fff;
+}
+.dropdown-item:hover{
+    color: #F6EB42;
+    background: #000;
+}
+.nav-link{
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+.nav-link:hover{
+    border-bottom: 3px solid #F6EB42;
+}
+.nav-item a{
+    font-family:Source Sans Pro;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:1;
+    opacity:85%;
+}
+.loader{
+    width:100%;
+    height:100%;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    background:#000;
+    
+    z-index:100;
+}
+.blob-1,.blob-2{
+    width:70px;
+    height:70px;
+    position:absolute;
+    background:#fff;
+    border-radius:50%;
+    top:50%;left:50%;
+    transform:translate(-50%,-50%);
+}
+.blob-1{
+    left:40%;
+    animation:osc-l 2.5s ease infinite;
+}
+.blob-2{
+    left:60%;
+    animation:osc-r 2.5s ease infinite;
+    background:#F6EB42;;
+}
+@keyframes osc-l{
+    0%{left:40%;}
+    50%{left:50%;}
+    100%{left:40%;}
+}
+@keyframes osc-r{
+    0%{left:60%;}
+    50%{left:50%;}
+    100%{left:60%;}
+}
+
 
 .topbar{
     font-family: Source Sans Pro;
@@ -19,19 +103,17 @@ body,html{
     padding: 2%;
     text-align: center;
     text-decoration: none;
-    border-radius:50%;
-    background: white;
-    color: black;	
+    width:90%;
 }
 
 .nav-item a{
-    font-family: Playfair Display;
+    font-family: Source Sans Pro;
     font-size:18px;
     color:#fff;
     line-height: 23px;
 }
 
-a: hover{
+a:hover{
     color: #F6EB42;
     cursor: pointer;
 }
@@ -62,7 +144,7 @@ a: hover{
 }
 
 .landing-img{
-    background-image: url('../Images/landing-img.jpeg'); 
+    background-image: url('../css/Images/sports-img.png'); 
     background-repeat: no-repeat;
     width:100%;
     height:528px;
@@ -72,6 +154,7 @@ a: hover{
     font-size:28px;
     margin-top:0%;
     margin-left: 0%;
+    color:#212529;
 }
 
 .img-text-by{
@@ -109,7 +192,7 @@ a: hover{
 }
 
 .reading-img{
-    background-image: url('../Images/sports-img.png'); 
+    background-image: url('../css/Images/sports-img.png'); 
     background-repeat: no-repeat;
     width:100%;
     height:528px;
@@ -136,6 +219,9 @@ a: hover{
     text-align:right;
 }
 
+.rm:hover{
+    color:#F6EB42;
+}
 .header3{
     font-family: Playfair Display;
     font-style: normal;
@@ -160,7 +246,7 @@ a: hover{
 }
 
 .opinion-img{
-    background-image: url('../Images/sports-img.png'); 
+    background-image: url('../css/Images/sports-img.png'); 
     background-repeat: no-repeat;
     width:100%;
     height:528px;
