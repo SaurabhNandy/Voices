@@ -161,6 +161,7 @@ a:hover{
     color:#C4C4C4;
     font-size:23px;
     margin-top:0%;
+    margin-bottom:5px;
 }
 
 .img-text-opinion{
@@ -173,6 +174,7 @@ a:hover{
     line-height: 21px;
     text-align: center;
     color: #000000; 
+    margin-top:5px;
 }
 
 .header2{
@@ -288,3 +290,8 @@ a:hover{
     background-color: #F6EB42;
     color: black;
 }
+.break{
+    display: block;
+    content: ""; 
+    margin-top: 7px;
+ }

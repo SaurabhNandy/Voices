@@ -39,7 +39,7 @@
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
-                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br>
+                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br class="break">
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
@@ -51,7 +51,7 @@
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
-                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br>
+                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br class="break">
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
@@ -63,7 +63,7 @@
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
-                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br>
+                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br class="break">
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>

@@ -27,12 +27,9 @@
 
 <div class="topbar mb-0 pb-0">
 		<div class="row col-12 mb-2 pt-4">
-			<div class="col-md-4 col-sm-3 col-xs-0"></div>
-			<div class="col-md-5 col-sm-6 col-xs-8  mx-auto mb-1 text-center" style="padding-left: auto;">
-				<img style="margin-left:5%; height:4rem;" class="img-fluid" src="../css/Images/voiceslogo.png" >
+			<div class="col-md-5 col-sm-6 col-xs-8 mx-auto mb-1 text-center" style="padding-left: auto;">
+				<img style="height:4rem;" class="img-fluid ml-2" src="../css/Images/voiceslogo.png" >
 			</div>
-			<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">         
-            </div>
 		</div>
 		<div class="navbar navbar-expand-md navbar-dark col-12" id="navbar" style="background-color:#000; padding:0px;">
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -42,11 +39,11 @@
 			<!-- Navbar links -->
 				<ul class="navbar-nav col-md-7 col-sm-10 ml-auto mr-auto" >
 					<li class="nav-item col-lg-2 col-md-2 col-sm-2 col-xs-2">
-						<a class="nav-link" href="./landing.php" style="color:#fff;">HOME</a>
+						<a class="nav-link" href="./landing.php" style="color:#fff;letter-spacing:3px;">HOME</a>
 					</li>
 					
 					<li class="nav-item dropdown-news col-lg-2 col-md-2 col-sm-2 col-xs-2 ml-2">
-						<a class="nav-link" href="./news.php" id="navbardrop" data-toggle="dropdown" style="color:#fff;">
+						<a class="nav-link" href="./news.php" id="navbardrop" data-toggle="dropdown" style="color:#fff;letter-spacing:3px;">
 							NEWS
 						</a>
 						<div class="dropdown-menu">
@@ -57,7 +54,7 @@
 					</li>
 
 					<li class="nav-item dropdown-opinion col-lg-2 col-md-2 col-sm-2 col-xs-2 ml-2">
-						<a class="nav-link" href="./opinion.php" id="navbardrop" data-toggle="dropdown" style="color:#fff;">
+						<a class="nav-link" href="./opinion.php" id="navbardrop" data-toggle="dropdown" style="color:#fff;letter-spacing:3px;">
 							OPINION
 						</a>
 						<div class="dropdown-menu">
@@ -69,11 +66,11 @@
 					</li>
 
 					<li class="nav-item col-lg-2 col-md-2 col-sm-2 col-xs-2 ml-2">
-						<a class="nav-link" href="./sports.php" style="color:#fff;">SPORTS</a>
+						<a class="nav-link" href="./sports.php" style="color:#fff;letter-spacing:3px;">SPORTS</a>
 					</li>
 
 					<li class="nav-item dropdown-features col-lg-2 col-md-2 col-sm-3 col-xs-3 ml-2">
-						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown" style="color:#fff;">
+						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown" style="color:#fff;letter-spacing:3px;">
 							FEATURES
 						</a>
 						<div class="dropdown-menu">
@@ -84,7 +81,7 @@
 					</li>
 
 					<li class="nav-item dropdown-multimedia col-lg-2 col-md-2 col-sm-3 col-xs-3 ml-2">
-						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown" style="color:#fff;">
+						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown" style="color:#fff;letter-spacing:3px;">
 							MULTIMEDIA
 						</a>
 						<div class="dropdown-menu">

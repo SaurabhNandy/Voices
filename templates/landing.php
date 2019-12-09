@@ -11,7 +11,7 @@
                 <div>
                     <p>
                         <span class="img-text">History’s Greatest Conqueror</span><br>
-                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                        <span class="img-text-by mb-5">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                         <span class="img-text-opinion">Opinion | Cornerstone</span>
                     </p>
                 </div>
@@ -23,7 +23,7 @@
                 <div>
                     <p>
                         <span class="img-text">History’s Greatest Conqueror</span><br>
-                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                         <span class="img-text-opinion">Opinion | Cornerstone</span>
                     </p>
                 </div>
@@ -37,7 +37,7 @@
                 <div>
                     <p>
                         <span class="img-text">History’s Greatest Conqueror</span><br>
-                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                         <span class="img-text-opinion">Opinion | Cornerstone</span>
                     </p>
                 </div>
@@ -49,7 +49,7 @@
                 <div>
                     <p>
                         <span class="img-text">History’s Greatest Conqueror</span><br>
-                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                         <span class="img-text-opinion">Opinion | Cornerstone</span>
                     </p>
                 </div>
@@ -63,7 +63,7 @@
                 <div>
                     <p>
                         <span class="img-text">History’s Greatest Conqueror</span><br>
-                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                         <span class="img-text-opinion">Opinion | Cornerstone</span>
                     </p>
                 </div>
@@ -75,7 +75,7 @@
                 <div>
                     <p>
                         <span class="img-text">History’s Greatest Conqueror</span><br>
-                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                         <span class="img-text-opinion">Opinion | Cornerstone</span>
                     </p>
                 </div>
@@ -89,7 +89,7 @@
                 <div>
                     <p>
                         <span class="img-text">History’s Greatest Conqueror</span><br>
-                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                         <span class="img-text-opinion">Opinion | Cornerstone</span>
                     </p>
                 </div>
@@ -101,7 +101,7 @@
                 <div>
                     <p>
                         <span class="img-text">History’s Greatest Conqueror</span><br>
-                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                         <span class="img-text-opinion">Opinion | Cornerstone</span>
                     </p>
                 </div>
@@ -151,7 +151,7 @@
                 <div>
                     <p>
                         <span class="img-text">History’s Greatest Conqueror</span><br>
-                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                         <span class="img-text-opinion">Opinion | Cornerstone</span>
                     </p>
                 </div>
@@ -163,7 +163,7 @@
                 <div>
                     <p>
                         <span class="img-text">History’s Greatest Conqueror</span><br>
-                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                        <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                         <span class="img-text-opinion">Opinion | Cornerstone</span>
                     </p>
                 </div>
@@ -177,7 +177,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -189,33 +189,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
-                            <span class="img-text-opinion">Opinion | Cornerstone</span>
-                        </p>
-                    </div>
-                </a>
-            </div>
-            </div>
-            <div class="row mb-2">
-            <div class="col-sm-6 col-xs-12">
-                <a href="#" class="d-block mb-2 h-60">
-                    <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                    <div>
-                        <p>
-                            <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
-                            <span class="img-text-opinion">Opinion | Cornerstone</span>
-                        </p>
-                    </div>
-                </a>
-            </div>
-            <div class="col-sm-6 col-xs-12">
-                <a href="#" class="d-block mb-2 h-60">
-                    <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                    <div>
-                        <p>
-                            <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -229,7 +203,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -241,7 +215,33 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
+                            <span class="img-text-opinion">Opinion | Cornerstone</span>
+                        </p>
+                    </div>
+                </a>
+            </div>
+            </div>
+            <div class="row mb-2">
+            <div class="col-sm-6 col-xs-12">
+                <a href="#" class="d-block mb-2 h-60">
+                    <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                    <div>
+                        <p>
+                            <span class="img-text">History’s Greatest Conqueror</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
+                            <span class="img-text-opinion">Opinion | Cornerstone</span>
+                        </p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-6 col-xs-12">
+                <a href="#" class="d-block mb-2 h-60">
+                    <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                    <div>
+                        <p>
+                            <span class="img-text">History’s Greatest Conqueror</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -260,7 +260,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -272,33 +272,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
-                            <span class="img-text-opinion">Opinion | Cornerstone</span>
-                        </p>
-                    </div>
-                </a>
-            </div>
-            </div>
-            <div class="row mb-2">
-            <div class="col-sm-6 col-xs-12">
-                <a href="#" class="d-block mb-2 h-60">
-                    <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                    <div>
-                        <p>
-                            <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
-                            <span class="img-text-opinion">Opinion | Cornerstone</span>
-                        </p>
-                    </div>
-                </a>
-            </div>
-            <div class="col-sm-6 col-xs-12">
-                <a href="#" class="d-block mb-2 h-60">
-                    <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                    <div>
-                        <p>
-                            <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -312,7 +286,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -324,7 +298,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -338,7 +312,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -350,7 +324,33 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
+                            <span class="img-text-opinion">Opinion | Cornerstone</span>
+                        </p>
+                    </div>
+                </a>
+            </div>
+            </div>
+            <div class="row mb-2">
+            <div class="col-sm-6 col-xs-12">
+                <a href="#" class="d-block mb-2 h-60">
+                    <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                    <div>
+                        <p>
+                            <span class="img-text">History’s Greatest Conqueror</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
+                            <span class="img-text-opinion">Opinion | Cornerstone</span>
+                        </p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-6 col-xs-12">
+                <a href="#" class="d-block mb-2 h-60">
+                    <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                    <div>
+                        <p>
+                            <span class="img-text">History’s Greatest Conqueror</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -378,7 +378,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -390,33 +390,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
-                            <span class="img-text-opinion">Opinion | Cornerstone</span>
-                        </p>
-                    </div>
-                </a>
-            </div>
-            </div>
-            <div class="row mb-2">
-            <div class="col-sm-6 col-xs-12">
-                <a href="#" class="d-block mb-2 h-60">
-                    <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                    <div>
-                        <p>
-                            <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
-                            <span class="img-text-opinion">Opinion | Cornerstone</span>
-                        </p>
-                    </div>
-                </a>
-            </div>
-            <div class="col-sm-6 col-xs-12">
-                <a href="#" class="d-block mb-2 h-60">
-                    <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                    <div>
-                        <p>
-                            <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -430,7 +404,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -442,7 +416,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -456,7 +430,7 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
@@ -468,7 +442,33 @@
                     <div>
                         <p>
                             <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
+                            <span class="img-text-opinion">Opinion | Cornerstone</span>
+                        </p>
+                    </div>
+                </a>
+            </div>
+            </div>
+            <div class="row mb-2">
+            <div class="col-sm-6 col-xs-12">
+                <a href="#" class="d-block mb-2 h-60">
+                    <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                    <div>
+                        <p>
+                            <span class="img-text">History’s Greatest Conqueror</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
+                            <span class="img-text-opinion">Opinion | Cornerstone</span>
+                        </p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-6 col-xs-12">
+                <a href="#" class="d-block mb-2 h-60">
+                    <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                    <div>
+                        <p>
+                            <span class="img-text">History’s Greatest Conqueror</span><br>
+                            <span class="img-text-by">by Amanbeer S Khanduja | KJSAC</span><br class="break">
                             <span class="img-text-opinion">Opinion | Cornerstone</span>
                         </p>
                     </div>
