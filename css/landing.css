@@ -259,3 +259,32 @@ a:hover{
     font-weight: normal;
     color: #DADADA;
 }
+
+.button{
+    padding: 2% 4%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100%;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-top:2%; 
+    background-color: black; 
+    color: #F6EB42;
+    border: solid #F6EB42;
+    border-radius: 5%;
+    font-weight: 600;
+}
+
+.button a{
+    color: #F6EB42;
+}
+
+.button a:hover{
+    color: #000;
+}
+.button:hover {
+    background-color: #F6EB42;
+    color: black;
+}

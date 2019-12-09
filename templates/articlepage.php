@@ -1,63 +1,6 @@
 <?php require 'navbar.php';?>
 <img src="articleimage.png" style="max-width:100%;min-width: 100%;">
-<style type="text/css">
-	.articleheader{
-		font-family: Source Sans Pro;
-		font-style: normal;
-		font-weight: 900;
-		font-size:400%;
-		line-height: 93.3%;
-		color: #25242A;
-	}
-	.dateposted{
-		font-family: Source Sans Pro;
-		font-style: normal;
-		font-weight: 600;
-		font-size:125%;
-		line-height: 110%;
-		text-align: justify;
-		color: #C4C4C4;
-	}
-	.article{
-		font-family: Source Serif Pro;
-		font-style: normal;
-		font-weight: normal;
-		font-size:150%;
-		line-height: 118.5%;
-		text-align: left;
-		color: #25242A;
-		word-spacing:0.6em;
-	}
-	.name{
-		font-family:Playfair Display;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 125%;
-		line-height:125%;
-		color: #000000;
-	}
-	.college{
-		font-family:Playfair Display;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 125%;
-		line-height:125%;
-		color: #000000;
-	}
-	.mark{
-		background-color: #F6EB42;
-		font-family:Playfair Display;
-		font-style: normal;
-		font-weight: bold;
-		font-size: 75%;
-		line-height:100%;
-		color: #000000;
-		margin-bottom: 2%;
-	}
-	.article-content{
-		margin-bottom: 3%;
-	}
-</style>
+
 <div class="row " style="padding-left: 5%;padding-top:5%">
 	<div class="col-2"></div>
     <div class="row col-md-8 article-content">

@@ -28,11 +28,10 @@
 <div class="topbar mb-0 pb-0">
 		<div class="row col-12 mb-2 pt-4">
 			<div class="col-md-4 col-sm-3 col-xs-0"></div>
-			<div class="col-md-5 col-sm-6 col-xs-8  ml-auto mr-auto mb-1" style="padding-left: auto;">
-				<img style="margin-left:5%; height:3.5rem;" class="img-fluid" src="../css/Images/voiceslogo.png" >
+			<div class="col-md-5 col-sm-6 col-xs-8  mx-auto mb-1 text-center" style="padding-left: auto;">
+				<img style="margin-left:5%; height:4rem;" class="img-fluid" src="../css/Images/voiceslogo.png" >
 			</div>
-			<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
-                    
+			<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">         
             </div>
 		</div>
 		<div class="navbar navbar-expand-md navbar-dark col-12" id="navbar" style="background-color:#000; padding:0px;">
@@ -96,7 +95,7 @@
 				
                 </ul>
                 
-                <div class="col-1 mb-0 mr-5 float-right" >
+                <div class="col-1 mb-0 mr-5 pr-4 float-right" >
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
                             <defs>
                                 <filter id="shadow" x="-100%" y="-100%" width="250%" height="250%">

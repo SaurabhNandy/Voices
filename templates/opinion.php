@@ -10,7 +10,6 @@
                     <div class="col-12 h-45">
                         <a href="#" class="d-block mb-2 ">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p><br>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -18,11 +17,11 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1 checkout">Sports</span>
                             </p>
                         </div>
+                        </a>
                     </div>
                     <div class="col-12 mt-5 h-45">
                         <a href="#" class="d-block mb-2 ">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p><br>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -30,13 +29,13 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1 checkout">Sports</span>
                             </p>
                         </div>
+                        </a>
                     </div>
                 </div>
                 <div class=" row col-4 h-100" style="max-height: 100%;height:100%">
                     <div class="col-12 h-30" style="height:30%;">
                         <a href="#" class="d-block mb-2 ">
                             <img class="img-fluid img-thumbnail " src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -44,11 +43,11 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                     </div>
                     <div class="col-12 h-30" style="height:30%;">
                         <a href="#" class="d-block mb-2 ">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -56,11 +55,11 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                     </div>
                     <div class="col-12 h-30" style="height:30%;">
                         <a href="#" class="d-block mb-2 ">
                             <img class="img-fluid img-thumbnail " src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -68,6 +67,7 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                     </div>
                 </div>  
             </div>
@@ -98,7 +98,6 @@
                 <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -106,25 +105,25 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                 </div>
                 <div class="col-6">
-                    <a href="#" class="d-block mb-2 h-60">
-                        <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                    </a>
-                    <div>
-                        <p>
-                            <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
-                            <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
-                        </p>
-                    </div>
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                        <div>
+                            <p>
+                                <span class="img-text">History’s Greatest Conqueror</span><br>
+                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
+                                <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
+                            </p>
+                        </div>
+                        </a>
                 </div>
             </div>
             <div class="row mb-2">
-                <div class="col-6">
-                        <a href="#" class="d-block mb-1 h-60">
+            <div class="col-6">
+                        <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -132,11 +131,11 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                 </div>
                 <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -144,39 +143,13 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
-                </div>
-            </div>
-            <div class="row mb-2">
-                <div class="col-6">
-                        <a href="#" class="d-block mb-2 h-60">
-                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
-                        <div>
-                            <p>
-                                <span class="img-text">History’s Greatest Conqueror</span><br>
-                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
-                                <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
-                            </p>
-                        </div>
-                </div>
-                <div class="col-6">
-                        <a href="#" class="d-block mb-2 h-60">
-                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
-                        <div>
-                            <p>
-                                <span class="img-text">History’s Greatest Conqueror</span><br>
-                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
-                                <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
-                            </p>
-                        </div>
                 </div>
             </div>
             <div class="row mb-2">
-                <div class="col-6">
+            <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -184,11 +157,11 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                 </div>
                 <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -196,6 +169,33 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
+                </div>
+            </div>
+            <div class="row mb-2">
+            <div class="col-6">
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                        <div>
+                            <p>
+                                <span class="img-text">History’s Greatest Conqueror</span><br>
+                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
+                                <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
+                            </p>
+                        </div>
+                        </a>
+                </div>
+                <div class="col-6">
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                        <div>
+                            <p>
+                                <span class="img-text">History’s Greatest Conqueror</span><br>
+                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
+                                <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
+                            </p>
+                        </div>
+                        </a>
                 </div>
             </div>
             <div class="row"><a href="#" class="rm">READ MORE...</a></div>
@@ -205,10 +205,9 @@
         <div class="sub-headers mb-1 mt-4 col-12"><span class="ml-5" id="conversation">CONVERSATION</span></div>
         <div class="landing-img-list container col-9 ml-5 mt-5 mb-5">
             <div class="row mb-2">
-                <div class="col-6">
+            <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -216,25 +215,11 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                 </div>
-                <div class="col-6">
-                    <a href="#" class="d-block mb-2 h-60">
-                        <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                    </a>
-                    <div>
-                        <p>
-                            <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
-                            <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row mb-2">
                 <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -242,25 +227,13 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
-                </div>
-                <div class="col-6">
-                        <a href="#" class="d-block mb-2 h-60">
-                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
-                        <div>
-                            <p>
-                                <span class="img-text">History’s Greatest Conqueror</span><br>
-                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
-                                <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
-                            </p>
-                        </div>
                 </div>
             </div>
             <div class="row mb-2">
-                <div class="col-6">
+            <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -268,11 +241,11 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                 </div>
                 <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -280,13 +253,13 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                 </div>
             </div>
             <div class="row mb-2">
-                <div class="col-6">
+            <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -294,11 +267,11 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                 </div>
                 <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -306,6 +279,33 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
+                </div>
+            </div>
+            <div class="row mb-2">
+            <div class="col-6">
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                        <div>
+                            <p>
+                                <span class="img-text">History’s Greatest Conqueror</span><br>
+                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
+                                <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
+                            </p>
+                        </div>
+                        </a>
+                </div>
+                <div class="col-6">
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                        <div>
+                            <p>
+                                <span class="img-text">History’s Greatest Conqueror</span><br>
+                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
+                                <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
+                            </p>
+                        </div>
+                        </a>
                 </div>
             </div>
             <div class="row"><a href="#" class="rm">READ MORE...</a></div>
@@ -315,10 +315,9 @@
         <div class="sub-headers mb-1 mt-4 col-12"><span class="ml-5" id="cornerstone">CORNERSTONE</span></div>
         <div class="landing-img-list container col-9 ml-5 mt-5 mb-5">
             <div class="row mb-2">
-                <div class="col-6">
+            <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -326,25 +325,11 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                 </div>
-                <div class="col-6">
-                    <a href="#" class="d-block mb-2 h-60">
-                        <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                    </a>
-                    <div>
-                        <p>
-                            <span class="img-text">History’s Greatest Conqueror</span><br>
-                            <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
-                            <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row mb-2">
                 <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -352,25 +337,13 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
-                </div>
-                <div class="col-6">
-                        <a href="#" class="d-block mb-2 h-60">
-                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
                         </a>
-                        <div>
-                            <p>
-                                <span class="img-text">History’s Greatest Conqueror</span><br>
-                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
-                                <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
-                            </p>
-                        </div>
                 </div>
             </div>
             <div class="row mb-2">
-                <div class="col-6">
+            <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -378,11 +351,11 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                 </div>
                 <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -390,13 +363,13 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                 </div>
             </div>
             <div class="row mb-2">
-                <div class="col-6">
+            <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -404,11 +377,11 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
                 </div>
                 <div class="col-6">
                         <a href="#" class="d-block mb-2 h-60">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                        </a>
                         <div>
                             <p>
                                 <span class="img-text">History’s Greatest Conqueror</span><br>
@@ -416,6 +389,33 @@
                                 <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
                             </p>
                         </div>
+                        </a>
+                </div>
+            </div>
+            <div class="row mb-2">
+            <div class="col-6">
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                        <div>
+                            <p>
+                                <span class="img-text">History’s Greatest Conqueror</span><br>
+                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
+                                <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
+                            </p>
+                        </div>
+                        </a>
+                </div>
+                <div class="col-6">
+                        <a href="#" class="d-block mb-2 h-60">
+                            <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
+                        <div>
+                            <p>
+                                <span class="img-text">History’s Greatest Conqueror</span><br>
+                                <span class="img-text-by">by Amanbeer S Khanduja | Sports | KJSAC</span><br><br>
+                                <span class="img-text-opinion pl-5 pr-5 pt-1 pb-1">Sports</span>
+                            </p>
+                        </div>
+                        </a>
                 </div>
             </div>
             <div class="row"><a href="#" class="rm">READ MORE...</a></div>

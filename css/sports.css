@@ -137,3 +137,109 @@ a:hover{
     text-align: justify;
     color: #898989;
 }
+
+.articleheader{
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 900;
+    font-size:400%;
+    line-height: 93.3%;
+    color: #25242A;
+}
+.dateposted{
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size:125%;
+    line-height: 110%;
+    text-align: justify;
+    color: #C4C4C4;
+}
+.article{
+    font-family: Source Serif Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size:150%;
+    line-height: 118.5%;
+    text-align: left;
+    color: #25242A;
+    word-spacing:0.6em;
+}
+.name{
+    font-family:Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 125%;
+    line-height:125%;
+    color: #000000;
+}
+.college{
+    font-family:Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 125%;
+    line-height:125%;
+    color: #000000;
+}
+.mark{
+    background-color: #F6EB42;
+    font-family:Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 75%;
+    line-height:100%;
+    color: #000000;
+    margin-bottom: 2%;
+}
+.article-content{
+    margin-bottom: 3%;
+}
+
+.design{
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: 0.38em;
+    color: #000000;
+}
+
+.teamname{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2rem ;
+    line-height: 37px;
+    color: #000000;
+}
+
+.teamname-white{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2rem;
+    line-height: 37px;
+    color: #fff;
+}
+
+.twork{
+    font-size:1rem; 
+    background-color:#F6EB42; 
+    font-weight: bold;
+    font-family: Playfair Display;
+    color:#000;
+    width:80%;
+    margin-left: 10%;
+}
+
+.dand{
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    color: #DADADA;
+    font-size:125%;
+}
+.dand:hover{
+    color: #F6EB42;
+}

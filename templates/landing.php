@@ -118,26 +118,26 @@
             <div class="col-3 mb-4">
                 <a href="#" class="d-block mb-2">
                     <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                </a>
                 <span class="reading-img-text">History's Greatest Conqueror</span>
+                </a>
             </div>
             <div class="col-3 mb-4">
                 <a href="#" class="d-block mb-2">
                     <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                </a>
                 <span class="reading-img-text">History's Greatest Conqueror</span>
+                </a>
             </div>
             <div class="col-3 mb-4">
                 <a href="#" class="d-block mb-2">
                     <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                </a>
                 <span class="reading-img-text">History's Greatest Conqueror</span>
+                </a>
             </div>
             <div class="col-3 mb-4">
                 <a href="#" class="d-block mb-2">
                     <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
-                </a>
                 <span class="reading-img-text">History's Greatest Conqueror</span>
+                </a>
             </div>
         </div>
     </div>

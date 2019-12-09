@@ -1,56 +1,34 @@
-<!-- <button style="position:absolute;margin-top:0%;margin-left:5%;height:20%;width:20%"><img src="scroll back to top.svg"></button> -->
+
 <hr class="col-12 p-0 m-0" style="border:solid; border-color: #F6EB42; width:100%; ">
-<style type="text/css">
-    .button{
-      padding: 2% 4%;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 100%;
-      -webkit-transition-duration: 0.4s; /* Safari */
-      transition-duration: 0.4s;
-      cursor: pointer;
-      margin-top:2%; 
-      background-color: black; 
-      color: #F6EB42;
-      border: solid #F6EB42;
-      border-radius: 5%;
-      font-weight: 600;
-    }
-    .button:hover {
-      background-color: #F6EB42;
-      color: black;
-}
-</style>
     <footer class="container col-12 mt-0 pt-0 mb-0" style="background-color:#000;">
         <div class="row ">
             <div class="col-md-6 col-sm-12 col-lg-6 col-xs-12 mt-5">
                 <div class="col-5 float-left ml-5">
                     <div class="col-12">
-                        <a href="#"style="font-family: Source Sans Pro;font-style: normal;font-weight: 600;font-size:160%;line-height:90%;color: #F6EB42;">HOME</a><br><br>
+                        <a href="./landing.php"style="font-family: Source Sans Pro;font-style: normal;font-weight: 600;font-size:160%;line-height:90%;color: #F6EB42;">HOME</a><br><br>
                     </div>
                     <div class="col-12">
-                        <a href="#" style="font-family: Source Sans Pro;font-style: normal;font-weight: 600;font-size:160%;line-height:90%;color: #F6EB42;">NEWS</a><br><br>
+                        <a href="./news.php" style="font-family: Source Sans Pro;font-style: normal;font-weight: 600;font-size:160%;line-height:90%;color: #F6EB42;">NEWS</a><br><br>
                         <p style="padding:2%;">
-                                <a href="#" class="footer-links">Events</a><br> 
-                                <a href="#" class="footer-links">Alumni Speak</a><br>
-                                <a href="#" class="footer-links">Student Life</a><br>
+                                <a href="./news.php#events" class="footer-links">Events</a><br> 
+                                <a href="./news.php#alumnispeak" class="footer-links">Alumni Speak</a><br>
+                                <a href="./news.php#studentlife" class="footer-links">Student Life</a><br>
                         </p>
                     </div>
                     <div class="col-12">
-                        <a href="#"style="font-family: Source Sans Pro;font-style: normal;font-weight: 600;font-size:160%;line-height:90%;color: #F6EB42;">OPINION</a><br><br>
+                        <a href="./opinion.php"style="font-family: Source Sans Pro;font-style: normal;font-weight: 600;font-size:160%;line-height:90%;color: #F6EB42;">OPINION</a><br><br>
                         <p style="padding:2%;">
-                            <a href="#" class="footer-links">Mindspace</a><br> 
-                            <a href="#" class="footer-links">President's Desk</a><br>
-                            <a href="#" class="footer-links">Cornerstone</a><br>
-                            <a href="#" class="footer-links">Conversation</a><br>
+                            <a href="./opinion.php#mindspace" class="footer-links">Mindspace</a><br> 
+                            <a href="./opinion.php#presidentsdesk" class="footer-links">President's Desk</a><br>
+                            <a href="./opinion.php#cornerstone" class="footer-links">Cornerstone</a><br>
+                            <a href="./opinion.php#conversation" class="footer-links">Conversation</a><br>
                         </p>
                     </div>
                 </div>
                 <div class="col-5 float-right">
                     <br><br>
                     <div class="col-12">
-                        <a href="#"style="font-family: Source Sans Pro;font-style: normal;font-weight: 600;font-size:160%;line-height:90%;color: #F6EB42;">SPORT</a><br><br>
+                        <a href="./sports.php"style="font-family: Source Sans Pro;font-style: normal;font-weight: 600;font-size:160%;line-height:90%;color: #F6EB42;">SPORT</a><br><br>
                     </div>
                     <div class="col-12">
                         <a href="#"style="font-family: Source Sans Pro;font-style: normal;font-weight: 600;font-size:160%;line-height:90%;color: #F6EB42;">FEATURES</a><br><br>
@@ -64,14 +42,14 @@
                         <a href="#"style="font-family: Source Sans Pro;font-style: normal;font-weight: 600;font-size:160%;line-height:90%;color: #F6EB42;">MULTIMEDIA</a><br><br>
                         <p style="padding:2%;">
                             <a href="#" class="footer-links">Images</a><br> 
-                            <a href="#" class="footer-links">Event Gallery</a><br>
+                            <a href="./events.php" class="footer-links">Event Gallery</a><br>
                         </p>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-sm-12 col-lg-6 col-xs-12 mt-5">
                 <div class="col-12 row " style="height:10rem;">
-                    <a href="">
+                    <a href="#">
                         <img style="height:11rem" class="img-fluid" src="../css/Images/PDF PLUG.svg" >     
                     </a>
                 </div>
@@ -87,24 +65,23 @@
                         <a href="#" class="footer-links">CONTACT US</a><br>
                         <a href="#" class="footer-links">DONATE</a><br>
                     </div>
-                    <button type="button" class="button" style="margin-left: 25%;" >WRITE FOR US</button>
+                    <button type="button" class="button mt-4" style="margin-left: 25%;" ><a href="./writeforus.php">WRITE FOR US</a></button>
                 </div>
             </div>
         </div>
-        <div class="row col-12 m-2">
+        <div class="row col-12 mx-2">
             <div class="col-lg-4 col-md-1"></div>
             <div class="col-lg-4 col-md-7 row">
-                <a class="col-5" href="#" style="font-family: Source Sans Pro;font-style: normal;font-size:125%;font-weight: 300;color: #DADADA;">Reach out to us</a>
+                <span class="col-5" style="font-family: Source Sans Pro;font-style: normal;font-size:125%;font-weight: 300;color: #DADADA;">Reach out to us</span>
                 <div class="col-6 row">
-                    <img class="col-2 mr-1" src="../css/Images/fb_white.svg" style="width:100%;padding:0%;">
-                    <img class="col-2 mr-1" src="../css/Images/insta_white.svg" style="width:100%;padding:0%;">
-                    <img class="col-2 mr-1" src="../css/Images/yt_white.svg" style="width:100%;padding:0%;">
-                    <img class="col-2 mr-1" src="../css/Images/Wordpress.svg" style="width:100%;padding:0%;">
+                    <a class="col-2 mx-auto p-0" href="#"><img src="../css/Images/fb_white.svg" style="width:100%;padding:0%;"></a>
+                    <a class="col-2 mx-auto p-0" href="#"><img src="../css/Images/insta_white.svg" style="width:100%;padding:0%;"></a>
+                    <a class="col-2 mx-auto p-0" href="#"><img src="../css/Images/yt_white.svg" style="width:100%;padding:0%;"></a>
+                    <a class="col-2 mx-auto p-0" href="#"><img src="../css/Images/Wordpress.svg" style="width:100%;padding:0%;"></a>
+                </div>                                          
+                <div class="col-12 text-center">
+                    <a href="./teampage.php"><p class="mt-2 mx-auto dand">Design and Development Team</p></a>
                 </div>
-                <div class="col-12">
-                    <p class="mt-2 ml-4" style="font-family: Source Sans Pro;font-style: normal;font-weight: normal;color: #DADADA;">Design and Development Team</p>
-                </div>
-
             </div>    
         </div>
     </footer>
@@ -233,6 +210,7 @@ if(tl.time() > 0 && tl.time() < tl.duration()){
     $('.img-text').css('color','#000');
     $('.desk-img-text').css('color','#25242A');
     $('.desk-text').css('color','#898989');
+    $('.popular-heading').css('color','#212529;');
 } 
 else{
     tl.play(0);
@@ -245,6 +223,7 @@ else{
     $('.img-text').css('color','#F6EB42');
     $('.desk-img-text').css('color','#F6EB42');
     $('.desk-text').css('color','#fff');
+    $('.popular-heading').css('color','#fff');
 }
 }
 
