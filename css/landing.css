@@ -221,8 +221,9 @@ a:hover{
     text-align:right;
 }
 
-.rm:hover{
+a, .rm:hover{
     color:#F6EB42;
+    cursor:pointer;
 }
 .header3{
     font-family: Playfair Display;

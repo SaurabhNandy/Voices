@@ -1,7 +1,7 @@
 <?php require 'navbar.php';?>
 
 <div class="conatiner col-12 pb-5" style="background-color:#F6EB42">
-    <div class="col-4 mx-auto p-auto mb-0 text-center ">
+    <div class="col-sm-4 col-xs-10 mx-auto p-auto mb-0 text-center ">
         <p class="design ml-5"><b>DESIGN</b></p>
         <img src="../css/Images/amanbeer.png" class="img-thumbnail rounded-circle p-auto" alt="Amanbeer Khanduja">
         <p class="teamname text-center mb-0">Amanbeer S Khanduja</p>
@@ -16,8 +16,8 @@
 
 
 <div class="conatiner col-12 mx-0 py-5 row text-center mt-0" style="background-color:#000">
-    <p class="design col-12 mb-5 " style="color:#F6EB42;"><b>DEVELOPMENT</b></p>
-    <div class="col-4 mx-auto p-auto mb-0 text-center ">
+    <p class="design-d col-12 mb-5 " style="color:#F6EB42;"><b>DEVELOPMENT</b></p>
+    <div class="col-sm-4 col-xs-10 mt-3 mx-auto p-auto mb-0 text-center ">
         <img src="../css/Images/amanbeer.png" class="img-thumbnail rounded-circle p-auto" alt="Ansh Rathod">
         <p class="teamname-white text-center mb-0 mt-2">Saurabh Nandy</p>
         <p class="twork text-center mb-0 mt-2 px-3">Front-end Lead</p>
@@ -27,7 +27,7 @@
             <a class="col-2 mx-auto p-0" href="https://www.instagram.com/saurabh_03_12/"><img src="../css/Images/insta_white.svg" style="width:100%;padding:0%;"></a>
         </div>
     </div>
-    <div class="col-4 mx-auto p-auto mb-0 text-center ">
+    <div class="col-sm-4 col-xs-10 mt-3 mx-auto p-auto mb-0 text-center ">
         <img src="../css/Images/amanbeer.png" class="img-thumbnail rounded-circle p-auto" alt="Ansh Rathod">
         <p class="teamname-white text-center mb-0 mt-2">Ansh Rathod</p>
         <p class="twork text-center mb-0 mt-2 px-3">Front-end Lead</p>
@@ -37,7 +37,7 @@
             <a class="col-2 mx-auto p-0" href="https://www.instagram.com/_ansh_rathod_"><img src="../css/Images/insta_white.svg" style="width:100%;padding:0%;"></a>
         </div>
     </div>
-    <div class="col-4 mx-auto p-auto mb-0 text-center ">
+    <div class="col-sm-4 col-xs-10 mt-3 mx-auto p-auto mb-0 text-center ">
         <img src="../css/Images/amanbeer.png" class="img-thumbnail rounded-circle p-auto" alt="Harshil Lathia">
         <p class="teamname-white text-center mb-0 mt-2">Harshil Lathia</p>
         <p class="twork text-center mb-0 mt-2">Back-end Lead</p>

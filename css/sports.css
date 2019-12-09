@@ -195,7 +195,7 @@ a:hover{
     margin-bottom: 3%;
 }
 
-.design{
+.design, .design-d{
     font-family: Source Sans Pro;
     font-style: normal;
     font-weight: 900;
@@ -204,6 +204,13 @@ a:hover{
     letter-spacing: 0.38em;
     color: #000000;
 }
+
+@media screen and (max-width: 600px) {
+    .design-d {
+        font-size: 38px;
+        letter-spacing: 0.28em;
+    }
+  }
 
 .teamname{
     font-family: Playfair Display;
@@ -244,3 +251,82 @@ a:hover{
     color: #F6EB42;
 }
 
+.text-writeforus{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 48px;
+    color: #000000;
+}
+.form-control{
+    border: solid #000000;
+    border-radius: 2%; 
+    box-sizing: border-box;
+    padding: 3% 1.5%;
+    line-height: 10%;
+}
+.form-control:focus{
+    border: solid #000000;
+    border-radius: 2%; 
+    box-sizing: border-box;
+}
+.form-textarea{
+    line-height: 120%;
+}
+.form-text{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200%;
+    line-height: 120%;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 5%;
+}
+.button-submit{
+  padding: 2% 2%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: black; 
+  color: #F6EB42;
+  border: solid black;
+  border-radius: 2%;
+  font-weight: 600;
+}
+.button-submit:hover {
+  background-color: #F6EB42;
+  color: black;
+  }
+.button-toggle{
+  padding: 0% 2%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: black; 
+  color: #F6EB42;
+  border: solid black;
+  border-radius: 2%;
+  font-weight: 600;
+}
+.button-toggle:hover {
+  background-color: #F6EB42;
+  color: black;
+}
+
+.about-article{
+    font-family: Playfair Display;
+    font-style: Regular;
+    font-size: 36px;
+    line-height: 48px;
+    align: Justified;
+}
