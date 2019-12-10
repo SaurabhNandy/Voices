@@ -150,6 +150,12 @@ a:hover{
     height:528px;
 }
 
+.landing-img-list .img-fluid{
+    width:100%;
+    height:100%;
+    object-fit: contain;
+}
+
 .img-text{
     font-size:28px;
     margin-top:0%;

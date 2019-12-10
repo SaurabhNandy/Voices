@@ -57,7 +57,7 @@
                     <a class="col-12 mt-2" href="#" style="padding-left:25%;font-family: Source Sans Pro;font-style: normal;font-weight: 600;font-size:160%;line-height:90%;color: #F6EB42;">VIEW ARCHIVES</a><br><br>
                     <div class="col-6" style="text-align:left">
                         <a href="#" class="footer-links">PRIVACY POLICY</a><br>
-                        <a href="#" class="footer-links">WHO ARE WE?</a><br>
+                        <a href="./about.php" class="footer-links">WHO ARE WE?</a><br>
                         <a href="#" class="footer-links">OUR TEAM</a><br>
                     </div>
                     <div class="col-6" style="text-align:left">
@@ -211,6 +211,7 @@ if(tl.time() > 0 && tl.time() < tl.duration()){
     $('.desk-img-text').css('color','#25242A');
     $('.desk-text').css('color','#898989');
     $('.popular-heading').css('color','#212529;');
+    $('.about-article').css('color','#212529;');
 } 
 else{
     tl.play(0);
@@ -224,6 +225,7 @@ else{
     $('.desk-img-text').css('color','#F6EB42');
     $('.desk-text').css('color','#fff');
     $('.popular-heading').css('color','#fff');
+    $('.about-article').css('color','#fff');
 }
 }
 
