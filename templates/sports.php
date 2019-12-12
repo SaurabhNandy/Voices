@@ -6,7 +6,7 @@
     <div class="container col-12 ">
         <div class="row col-12 popular-heading">Popular This Week</div>
             <div class="row col-12 m-0" >
-                <div class="column col-8 mt-4" style="overflow-y:hidden">
+                <div class="column col-sm-8 col-xs-12 mt-4" style="overflow-y:hidden">
                     <div class="col-12 h-45">
                         <a href="#" class="d-block mb-2 ">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
@@ -32,7 +32,7 @@
                         </a>
                     </div>
                 </div>
-                <div class=" row col-4 h-100" style="max-height: 100%;height:100%">
+                <div class=" row col-sm-4 col-xs-12 h-100" style="max-height: 100%;height:100%">
                     <div class="col-12 h-30" style="height:30%;">
                         <a href="#" class="d-block mb-2 ">
                             <img class="img-fluid img-thumbnail " src="../css/Images/img-list.png" alt="">

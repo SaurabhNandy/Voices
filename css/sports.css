@@ -118,6 +118,9 @@ a:hover{
     color: #000000;
     background-color:#F6EB42;
 }
+.sub-headers span{
+    margin-left:5%;
+}
 
 .desk-img-text{
     font-family: Source Sans Pro;
@@ -137,6 +140,42 @@ a:hover{
     text-align: justify;
     color: #898989;
 }
+
+@media screen and (max-width: 547px) {
+    .sub-headers{
+        width: 100%;
+        height:100%;
+        font-family: Source Sans Pro;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 48px;
+        color: #000000;
+        background-color:#F6EB42;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .sub-headers span{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .desk-img-text{
+        font-family: Source Sans Pro;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 55px;
+        line-height: 74px;
+        color: #25242A;
+    }
+    .desk-text{
+        font-family: Playfair Display;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 26px;
+        line-height: 48px;
+        text-align: justify;
+        color: #898989;
+    }   
+  }
 
 .articleheader{
     font-family: Source Sans Pro;

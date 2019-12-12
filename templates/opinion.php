@@ -6,7 +6,7 @@
     <div class="container col-12 ">
         <div class="row col-12 popular-heading ml-4">Popular This Week</div>
             <div class="row col-12 m-0" >
-                <div class="column col-8 mt-4" style="overflow-y:hidden">
+                <div class="column col-sm-8 col-xs-12 mt-4" style="overflow-y:hidden">
                     <div class="col-12 h-45">
                         <a href="#" class="d-block mb-2 ">
                             <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
@@ -32,7 +32,7 @@
                         </a>
                     </div>
                 </div>
-                <div class=" row col-4 h-100" style="max-height: 100%;height:100%">
+                <div class=" row col-sm-4 col-xs-12 h-100" style="max-height: 100%;height:100%">
                     <div class="col-12 h-30" style="height:30%;">
                         <a href="#" class="d-block mb-2 ">
                             <img class="img-fluid img-thumbnail " src="../css/Images/img-list.png" alt="">
@@ -73,8 +73,8 @@
             </div>
         </div>
 
-        <div class="sub-headers mb-2 mt-4 col-12"><span class="ml-5" id="presidentsdesk" style="font-weight:700; letter-spacing: 3px;">PRESIDENT'S DESK</span></div>
-        <div class="landing-img-list container col-9 mx-auto mt-5 mb-5">
+        <div class="sub-headers mb-2 mt-4 col-12"><span id="presidentsdesk" style="font-weight:700; letter-spacing: 3px;">PRESIDENT'S DESK</span></div>
+        <div class="landing-img-list container col-sm-9 col-xs-12 mx-auto mt-5 mb-5">
             <a href="#" class="d-block mb-2 h-60 col-11 mx-auto">
                 <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
             </a>
@@ -92,7 +92,7 @@
         </div>
         
         
-        <div class="sub-headers mb-2 mt-4 col-12"><span class="ml-5" id="mindspace" style="font-weight:700; letter-spacing: 3px;">MINDSPACE</span></div>
+        <div class="sub-headers mb-2 mt-4 col-12"><span id="mindspace" style="font-weight:700; letter-spacing: 3px;">MINDSPACE</span></div>
         <div class="landing-img-list container col-9 ml-5 mt-5 mb-5 ">
             <div class="row mb-2">
                 <div class="col-sm-6 col-xs-12">
@@ -202,7 +202,7 @@
         </div>
 
         
-        <div class="sub-headers mb-1 mt-4 col-12"><span class="ml-5" id="conversation" style="font-weight:700; letter-spacing: 3px;">CONVERSATION</span></div>
+        <div class="sub-headers mb-1 mt-4 col-12"><span id="conversation" style="font-weight:700; letter-spacing: 3px;">CONVERSATION</span></div>
         <div class="landing-img-list container col-9 ml-5 mt-5 mb-5">
             <div class="row mb-2">
             <div class="col-sm-6 col-xs-12">
@@ -312,7 +312,7 @@
         </div>
         
 
-        <div class="sub-headers mb-1 mt-4 col-12"><span class="ml-5" id="cornerstone" style="font-weight:700; letter-spacing: 3px;">CORNERSTONE</span></div>
+        <div class="sub-headers mb-1 mt-4 col-12"><span id="cornerstone" style="font-weight:700; letter-spacing: 3px;">CORNERSTONE</span></div>
         <div class="landing-img-list container col-9 ml-5 mt-5 mb-5">
             <div class="row mb-2">
             <div class="col-sm-6 col-xs-12">
