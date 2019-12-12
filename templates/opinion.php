@@ -73,7 +73,7 @@
             </div>
         </div>
 
-        <div class="sub-headers mb-2 mt-4 col-12"><span class="ml-5" id="presidentsdesk">PRESIDENT'S DESK</span></div>
+        <div class="sub-headers mb-2 mt-4 col-12"><span class="ml-5" id="presidentsdesk" style="font-weight:700; letter-spacing: 3px;">PRESIDENT'S DESK</span></div>
         <div class="landing-img-list container col-9 mx-auto mt-5 mb-5">
             <a href="#" class="d-block mb-2 h-60 col-11 mx-auto">
                 <img class="img-fluid img-thumbnail" src="../css/Images/img-list.png" alt="">
@@ -92,7 +92,7 @@
         </div>
         
         
-        <div class="sub-headers mb-2 mt-4 col-12"><span class="ml-5" id="mindspace">MINDSPACE</span></div>
+        <div class="sub-headers mb-2 mt-4 col-12"><span class="ml-5" id="mindspace" style="font-weight:700; letter-spacing: 3px;">MINDSPACE</span></div>
         <div class="landing-img-list container col-9 ml-5 mt-5 mb-5 ">
             <div class="row mb-2">
                 <div class="col-sm-6 col-xs-12">
@@ -202,7 +202,7 @@
         </div>
 
         
-        <div class="sub-headers mb-1 mt-4 col-12"><span class="ml-5" id="conversation">CONVERSATION</span></div>
+        <div class="sub-headers mb-1 mt-4 col-12"><span class="ml-5" id="conversation" style="font-weight:700; letter-spacing: 3px;">CONVERSATION</span></div>
         <div class="landing-img-list container col-9 ml-5 mt-5 mb-5">
             <div class="row mb-2">
             <div class="col-sm-6 col-xs-12">
@@ -312,7 +312,7 @@
         </div>
         
 
-        <div class="sub-headers mb-1 mt-4 col-12"><span class="ml-5" id="cornerstone">CORNERSTONE</span></div>
+        <div class="sub-headers mb-1 mt-4 col-12"><span class="ml-5" id="cornerstone" style="font-weight:700; letter-spacing: 3px;">CORNERSTONE</span></div>
         <div class="landing-img-list container col-9 ml-5 mt-5 mb-5">
             <div class="row mb-2">
             <div class="col-sm-6 col-xs-12">

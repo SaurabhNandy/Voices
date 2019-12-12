@@ -2,21 +2,21 @@
 
 <div class="conatiner col-12 pb-5" style="background-color:#F6EB42">
     <div class="col-sm-4 col-xs-10 mx-auto p-auto mb-0 text-center ">
-        <p class="design ml-5"><b>DESIGN</b></p>
+        <p class="design ml-5" style="font-weight: bolder"><b>DESIGN</b></p>
         <img src="../css/Images/amanbeer.png" class="img-thumbnail rounded-circle p-auto team-img" alt="Amanbeer Khanduja">
         <p class="teamname text-center mb-0">Amanbeer S Khanduja</p>
         <div class="col-6 row mx-auto text-center mt-3">
-            <a class="col-2 mx-auto p-0" href="#"><img src="../css/Images/Instagram_black.svg" style="width:100%;padding:0%;"></a>
-            <a class="col-2 mx-auto p-0" href="#"><img src="../css/Images/Facebook_black.svg" style="width:100%;padding:0%;"></a>
-            <a class="col-2 mx-auto p-0" href="#"><img src="../css/Images/Behance_black.svg" style="width:100%;padding:0%;"></a>
-            <a class="col-2 mx-auto p-0" href="#"><img src="../css/Images/Github.svg" style="width:100%;padding:0%;"></a>
+            <a class="col-2 mx-auto p-0" href="https://www.instagram.com/theycallme_beer/"><img src="../css/Images/Instagram_black.svg" style="width:100%;padding:0%;"></a>
+            <a class="col-2 mx-auto p-0" href="https://www.facebook.com/amanbeer899"><img src="../css/Images/Facebook_black.svg" style="width:100%;padding:0%;"></a>
+            <a class="col-2 mx-auto p-0" href="https://www.behance.net/amanbeer899  "><img src="../css/Images/Behance_black.svg" style="width:100%;padding:0%;"></a>
+            <a class="col-2 mx-auto p-0" href="https://github.com/SockAndSandal"><img src="../css/Images/Github.svg" style="width:100%;padding:0%;"></a>
         </div>
     </div>
 </div>
 
 
 <div class="conatiner col-12 mx-0 py-5 row text-center mt-0" style="background-color:#000">
-    <p class="design-d col-12 mb-5 " style="color:#F6EB42;"><b>DEVELOPMENT</b></p>
+    <p class="design-d col-12 mb-5 " style="color:#F6EB42; font-weight: bold"><b>DEVELOPMENT</b></p>
     <div class="col-sm-4 col-xs-10 mt-3 mx-auto p-auto mb-0 text-center ">
         <img src="../css/Images/saurabh.jpeg" class="img-thumbnail rounded-circle p-auto team-img" alt="Ansh Rathod">
         <p class="teamname-white text-center mb-0 mt-2">Saurabh Nandy</p>

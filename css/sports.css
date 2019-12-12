@@ -156,14 +156,14 @@ a:hover{
     color: #C4C4C4;
 }
 .article{
-    font-family: Source Serif Pro;
+    font-family: 'GFS Didot', serif;
     font-style: normal;
     font-weight: normal;
     font-size:150%;
     line-height: 118.5%;
-    text-align: left;
+    text-align: auto;
     color: #25242A;
-    word-spacing:0.6em;
+    word-spacing: 0.3em;
 }
 .name{
     font-family:Playfair Display;
@@ -198,7 +198,7 @@ a:hover{
 .design, .design-d{
     font-family: Source Sans Pro;
     font-style: normal;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 48px;
     line-height: 60px;
     letter-spacing: 0.38em;

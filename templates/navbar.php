@@ -6,7 +6,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="shortcut icon" href="..css/Images/favicon.ico"/>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=GFS+Didot&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="../css/sports.css">
     <link rel="stylesheet" href="../css/landing.css">
@@ -39,11 +40,11 @@
 			<!-- Navbar links -->
 				<ul class="navbar-nav col-md-7 col-sm-10 ml-auto mr-auto" >
 					<li class="nav-item col-lg-2 col-md-2 col-sm-2 col-xs-2">
-						<a class="nav-link" href="./landing.php" style="color:#fff;letter-spacing:3px;">HOME</a>
+						<a class="nav-link" href="./landing.php" style="color:#fff;letter-spacing:3px; font-weight:300;">HOME</a>
 					</li>
 					
 					<li class="nav-item dropdown-news col-lg-2 col-md-2 col-sm-2 col-xs-2 ml-2">
-						<a class="nav-link" href="./news.php" id="navbardrop" data-toggle="dropdown" style="color:#fff;letter-spacing:3px;">
+						<a class="nav-link" href="./news.php" id="navbardrop" data-toggle="dropdown" style="color:#fff;letter-spacing:3px; font-weight:300;">
 							NEWS
 						</a>
 						<div class="dropdown-menu">
@@ -54,7 +55,7 @@
 					</li>
 
 					<li class="nav-item dropdown-opinion col-lg-2 col-md-2 col-sm-2 col-xs-2 ml-2">
-						<a class="nav-link" href="./opinion.php" id="navbardrop" data-toggle="dropdown" style="color:#fff;letter-spacing:3px;">
+						<a class="nav-link" href="./opinion.php" id="navbardrop" data-toggle="dropdown" style="color:#fff;letter-spacing:3px; font-weight:300;">
 							OPINION
 						</a>
 						<div class="dropdown-menu">
@@ -66,11 +67,11 @@
 					</li>
 
 					<li class="nav-item col-lg-2 col-md-2 col-sm-2 col-xs-2 ml-2">
-						<a class="nav-link" href="./sports.php" style="color:#fff;letter-spacing:3px;">SPORTS</a>
+						<a class="nav-link" href="./sports.php" style="color:#fff;letter-spacing:3px; font-weight:300;">SPORTS</a>
 					</li>
 
 					<li class="nav-item dropdown-features col-lg-2 col-md-2 col-sm-3 col-xs-3 ml-2">
-						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown" style="color:#fff;letter-spacing:3px;">
+						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown" style="color:#fff;letter-spacing:3px; font-weight:300;">
 							FEATURES
 						</a>
 						<div class="dropdown-menu">
@@ -81,7 +82,7 @@
 					</li>
 
 					<li class="nav-item dropdown-multimedia col-lg-2 col-md-2 col-sm-3 col-xs-3 ml-2">
-						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown" style="color:#fff;letter-spacing:3px;">
+						<a class="nav-link" href="#" id="navbardrop" data-toggle="dropdown" style="color:#fff;letter-spacing:3px; font-weight:300;">
 							MULTIMEDIA
 						</a>
 						<div class="dropdown-menu">
